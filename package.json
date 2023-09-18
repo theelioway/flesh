@@ -1,0 +1,45 @@
+{
+  "alternateName": "flesh of my flesh, the elioWay",
+  "description": "A library of client-side templates, components, code, and more, the elioWay.",
+  "disambiguatingDescription": "spawn abundant, living soul, the elioWay",
+  "identifier": "flesh",
+  "mainEntityOfPage": "SoftwareSourceCode",
+  "name": "flesh",
+  "sameAs": "https://elioflesh.theElioWay.com/",
+  "subjectOf": "elioflesh",
+  "url": "https://flesh.elioflesh.theElioWay.com",
+  "SoftwareSourceCode": {
+    "codeSampleType": "experimental",
+    "targetProduct": "elioflesh"
+  },
+  "WebPage": {
+    "breadcrumb": [ "elioway", "elioflesh",  "flesh" ]
+  },
+  "private": true,
+  "tew": {
+    "lifecycle": "experimental",
+    "chisel": {
+      "Home": "elioflesh"
+    }
+  },
+  "dependencies": {
+    "@elioway/thing": "latest",
+    "@elioway/bones": "latest"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "homepage": "https://elioway.gitlab.io/elioflesh/flesh/",
+  "keywords": [
+    "documentation"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/elioflesh/flesh/"
+  },
+  "scripts": {
+    "test": "mocha",
+    "prettier": "prettier --write \"**/*.{css,html,js,json,md,mjs,scss,ts,yaml}\" \"!package.json\""
+  }
+}
