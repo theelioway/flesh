@@ -13,7 +13,11 @@
     "targetProduct": "elioflesh"
   },
   "WebPage": {
-    "breadcrumb": [ "elioway", "elioflesh",  "flesh" ]
+    "breadcrumb": [
+      "elioway",
+      "elioflesh",
+      "flesh"
+    ]
   },
   "private": true,
   "tew": {
