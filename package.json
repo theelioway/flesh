@@ -1,7 +1,6 @@
 {
-  "alternateName": "flesh of my flesh, the elioWay",
   "description": "A library of client-side templates, components, code, and more, the elioWay.",
-  "disambiguatingDescription": "spawn abundant, living soul, the elioWay",
+  "disambiguatingDescription": "And they shall be one flesh, one heart, one soul., the elioWay",
   "identifier": "flesh",
   "mainEntityOfPage": "SoftwareSourceCode",
   "name": "flesh",
@@ -44,6 +43,6 @@
   },
   "scripts": {
     "test": "mocha",
-    "prettier": "prettier --write \"**/*.{css,html,js,json,md,mjs,scss,ts,yaml}\" \"!package.json\""
+    "prettier": "prettier --write"
   }
 }
