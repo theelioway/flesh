@@ -1,11 +1,12 @@
 {
-
   "description": "A library of client-side templates, components, code, and more, the elioWay.",
-  "disambiguatingDescription": "And they shall be one flesh, one heart, one soul., the elioWay",
+  "disambiguatingDescription": "And they shall be one flesh, one heart, one soul",
   "identifier": "flesh",
   "mainEntityOfPage": "SoftwareSourceCode",
   "name": "@elioway/flesh",
+  "sameAs": "https://Flesh.theElioWay.com/",
   "subjectOf": "Way",
+  "url": "https://flesh.Flesh.theElioWay.com",
   "SoftwareSourceCode": {
     "codeSampleType": "experimental",
     "targetProduct": "elioflesh"
@@ -17,7 +18,6 @@
       "flesh"
     ]
   },
-  "private": true,
   "dependencies": {
     "@elioway/thing": "file:../thing",
     "@elioway/bones": "file:../bones"
@@ -29,6 +29,7 @@
   },
   "homepage": "https://elioway.gitlab.io/elioflesh/flesh/",
   "license": "MIT",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/elioflesh/flesh/"
