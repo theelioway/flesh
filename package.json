@@ -1,12 +1,7 @@
 {
-<<<<<<< HEAD
-  "alternateName": "flesh of flesh, the elioWay",
-  "description": "A library of client-side templates, components, code, and more, the elioWay.",
-  "disambiguatingDescription": "Spawn abundant, living soul, the elioWay",
-=======
+
   "description": "A library of client-side templates, components, code, and more, the elioWay.",
   "disambiguatingDescription": "And they shall be one flesh, one heart, one soul., the elioWay",
->>>>>>> the-elio-way
   "identifier": "flesh",
   "mainEntityOfPage": "SoftwareSourceCode",
   "name": "@elioway/flesh",
@@ -24,11 +19,13 @@
   },
   "private": true,
   "dependencies": {
-    "@elioway/thing": "latest",
-    "@elioway/bones": "latest"
+    "@elioway/thing": "file:../thing",
+    "@elioway/bones": "file:../bones"
   },
   "devDependencies": {
-    "prettier": "^2.8.0"
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "prettier": "^3.1.1"
   },
   "homepage": "https://elioway.gitlab.io/elioflesh/flesh/",
   "license": "MIT",
@@ -38,10 +35,6 @@
   },
   "scripts": {
     "test": "mocha",
-<<<<<<< HEAD
-    "prettier": "prettier --list-different --write \"**/*.{css,html,js,json,md,mjs,scss,ts,yaml}\" \"!package.json\""
-=======
     "prettier": "prettier --write"
->>>>>>> the-elio-way
   }
 }
