@@ -1,4 +1,4 @@
-![](https://elioway.gitlab.io/elioflesh/flesh/postcard.png)
+![](./postcard.jpg)
 
 # flesh
 
